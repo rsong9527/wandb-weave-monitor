@@ -34,7 +34,7 @@ This will:
 
 ### 2. Create a Monitor in Weave UI
 
-1. Navigate to your Weave project: https://wandb.ai/wandb/monitor-test-simple/weave
+1. Navigate to your Weave project: https://wandb.ai/wandb/monitor-test-simple/weave/traces
 2. Go to the **Monitors** tab
 3. Click **New Monitor**
 4. Configure the monitor:
@@ -43,17 +43,17 @@ This will:
    - **Judge model**: `gpt-4` (recommended; avoid `gpt-4o` due to API compatibility issues)
    - **System prompt**: 
      ```
-     You are an expert at evaluating summary quality.
+     あなたは要約の品質を評価する専門家です。
      ```
    - **Scoring prompt**: 
      ```
-     Evaluate the following summary:
+     以下の要約を評価してください：
      
-     Original text: {text}
-     Target length: {文字数} characters
-     Generated summary: {output}
+     元のテキスト: {text}
+     目標文字数: {文字数}文字
+     生成された要約: {output}
      
-     Rate the summary on a scale of 1-10 and provide reasoning.
+     1から10のスケールで評価し、理由を説明してください。
      ```
 
 ### 3. View Results
