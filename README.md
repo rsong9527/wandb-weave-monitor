@@ -111,9 +111,9 @@ This example demonstrates several important concepts:
 
 ## Related Resources
 
-- [Weave Monitor Documentation](https://wandb.ai/site/weave/docs)
-- [Online Evaluation Guide](https://wandb.ai/site/weave/guides/evaluation)
-- [Scorers Documentation](https://wandb.ai/site/weave/guides/evaluation/scorers)
+- [Weave Monitor Documentation - Prompt Variables](https://docs.wandb.ai/weave/guides/evaluation/guardrails_and_monitors#prompt-variables)
+- [Online Evaluation Guide](https://docs.wandb.ai/weave/guides/evaluation/guardrails_and_monitors)
+- [Scorers Documentation](https://docs.wandb.ai/weave/guides/evaluation/scorers)
 
 ## License
 
