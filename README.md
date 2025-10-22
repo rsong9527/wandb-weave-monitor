@@ -1,6 +1,6 @@
 # Weave Monitor Test Script
 
-A simple test script demonstrating how to use [W&B Weave Monitor](https://wandb.ai/site/weave) with custom parameters, including support for non-English parameter names.
+A simple test script demonstrating how to use [W&B Weave Monitor](https://docs.wandb.ai/weave/guides/evaluation/guardrails_and_monitors) with custom parameters, including support for non-English parameter names.
 
 ## Overview
 
