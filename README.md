@@ -108,8 +108,6 @@ This example demonstrates several important concepts:
 ## Related Resources
 
 - [Weave Monitor Documentation - Prompt Variables](https://docs.wandb.ai/weave/guides/evaluation/guardrails_and_monitors#prompt-variables)
-- [Online Evaluation Guide](https://docs.wandb.ai/weave/guides/evaluation/guardrails_and_monitors)
-- [Scorers Documentation](https://docs.wandb.ai/weave/guides/evaluation/scorers)
 
 ## License
 
@@ -117,4 +115,6 @@ MIT
 
 ## Contributing
 
-This is a demonstration repository. For questions or issues with Weave itself, please contact [W&B Support](https://wandb.ai/support).
+This is a demonstration repository. For questions or issues with Weave itself, please contact:
+
+**W&B Support**: support@wandb.com
